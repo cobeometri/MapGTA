@@ -1,0 +1,447 @@
+{
+  "upstream_commit": "594647dbcffec3df69518d59316df6dfa0351af3",
+  "default_style": "postalvn",
+  "assets": [
+    {
+      "file": "classic_minimap_lod_128.ytd",
+      "bytes": 12936,
+      "sha256": "0785a122cf1a0fcbcf576581330acf4c589874595a9630d959abed24670fccf4",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "d41a22c61a11374225e91460e29f69d65e6d5fb84c5e64bd8745f70d63ef7f94"
+    },
+    {
+      "file": "classic_minimap_sea_0_0.ytd",
+      "bytes": 1330294,
+      "sha256": "782d49ffcb8c8dd0afc837362edb92e82387214e7594d870858b277c6868a9a1",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "c2d0fd6bba613a951cb909fdb43b91ee3db52bcc5c891676eab14ac1c9495094"
+    },
+    {
+      "file": "classic_minimap_sea_0_1.ytd",
+      "bytes": 1356313,
+      "sha256": "761c7eeba7f240505fc7833bcc0f9dfe33ad414bb59c1bb64b0752734ea81d8b",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "a7eabcaaf4eb588c9574be1239061ca5c8fe7468391ce75c203ae74f3fd55c18"
+    },
+    {
+      "file": "classic_minimap_sea_1_0.ytd",
+      "bytes": 1407696,
+      "sha256": "e97569010d7380be52b867e8ca9139afb6101462405a6857ddbda0a26d590430",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "4a36cb53049e8ae1d582bf1fbcc4a2e42b619dcc32a16aa0ada762818cebf16f"
+    },
+    {
+      "file": "classic_minimap_sea_1_1.ytd",
+      "bytes": 1552678,
+      "sha256": "60a8abb23a1f7499d3fe224cd398861737866c805cd1698ff2fed0a8f84b7563",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "32a28b8353235dab8554301834afdf9d86a5bf691c7d3beb7a5cd3cc246d0403"
+    },
+    {
+      "file": "classic_minimap_sea_2_0.ytd",
+      "bytes": 1195788,
+      "sha256": "69b00f24436b8d42663185a6c1efdcdde887ede34401e426130a182bf979001e",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "ad02cb73117569c4a2687674435acf6dd6af20dfa7fb639edac6e7d59d0e9d99"
+    },
+    {
+      "file": "classic_minimap_sea_2_1.ytd",
+      "bytes": 1183083,
+      "sha256": "fab6f29441c6ff433469145de7b2a9030619aca78abc3bdfe578c45dc072c887",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "608eeb0006e695787be26ac4476a5ee9b304aa17bb1b367cd3ae6b0222c1b0b8"
+    },
+    {
+      "file": "color_minimap_lod_128.ytd",
+      "bytes": 9779,
+      "sha256": "8f4e0009ab010adc6a79aa1125c0a4c744c29de40e86fa5fdf314cdd94ead8f2",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "8a72e2fb2baa8f0f717e0239b4428948c6bdbf42e914deaf6415ff1d3c345ff5"
+    },
+    {
+      "file": "color_minimap_sea_0_0.ytd",
+      "bytes": 1238458,
+      "sha256": "21563c614bc21f9dac7ff7fb8580efb2ea86d6cd7699ae76a37f2cfe4f6537fa",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "84706a919aa6e44321c48a7e0e32124073d591ff40912fd384783e5e6ef9e7bc"
+    },
+    {
+      "file": "color_minimap_sea_0_1.ytd",
+      "bytes": 1348406,
+      "sha256": "5efd12091ae0fa83df342e147a1ad9f8b055f5f2a4b12954ee084867f2225266",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "2e49cd04705928cc73e8556f4f67225e2d4772e791c26cbf21992ca6358c2056"
+    },
+    {
+      "file": "color_minimap_sea_1_0.ytd",
+      "bytes": 1535745,
+      "sha256": "322f289e2cb19cecb78e3a09b0b404142bd05349a6b361de33fa34432fcbbc9d",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "ecd68096951a24a29032148a4e1f61faacb4c686de78355e8576a7fd8c7e74c9"
+    },
+    {
+      "file": "color_minimap_sea_1_1.ytd",
+      "bytes": 1512259,
+      "sha256": "776d145dba03b02adfb87697c40c4b6718dba116af6797949b63a171c7b6bd50",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "35e9ea99811b9a6ec8c42be11ede85fe04022dce8fa4daa65708b35faa99a27f"
+    },
+    {
+      "file": "color_minimap_sea_2_0.ytd",
+      "bytes": 1141669,
+      "sha256": "66638f0d4fe75105caa33aff6eea9fd7919692f9c4cf20716b1f044bcfb3e0c3",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "6467e5af098212a88f2b1c1a7a5606a071e400b07a6518f12993f66d5fd4db56"
+    },
+    {
+      "file": "color_minimap_sea_2_1.ytd",
+      "bytes": 1163612,
+      "sha256": "5f59f21ee2544cb9026f9dc4bbb0e6bf1432a41c93d2cdadd40d99cdf4fe3fa4",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "eb03865e659aafa5037dc39349ea1eb587ea2b37db89df9c71f8af1bd95de560"
+    },
+    {
+      "file": "colorv2_minimap_lod_128.ytd",
+      "bytes": 8771,
+      "sha256": "833bbbb292553e76df28119114dfa37128dbeaf5524818a5826e1da61e5d3fb6",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "71bb93ffcfa3194e324ccad91361eb23d19b2b89b15b1caf5e3f0563da65fd12"
+    },
+    {
+      "file": "colorv2_minimap_sea_0_0.ytd",
+      "bytes": 1994700,
+      "sha256": "0012d0692a9c7145e985feab0f9c6015b9118963735864558c1bc24369802028",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "e7ade733b0f81377b67cea09186ad6aad24f5a906dbb0d3084fc4200d27a4b08"
+    },
+    {
+      "file": "colorv2_minimap_sea_0_1.ytd",
+      "bytes": 2227675,
+      "sha256": "d69afd80a3f5c7f9a866f12087e8483368775c7a2c8e27f07b255fcaeee2f310",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "832251d95c1a40c9bdfd87c139e3b2b7c76f1c7e30922e05245d5acb48b3b2b9"
+    },
+    {
+      "file": "colorv2_minimap_sea_1_0.ytd",
+      "bytes": 2489837,
+      "sha256": "21fa820342e7b3c6450f2cc7b5c0fa0d0bbb702f0dfdc8bf0a176de1bd2c1ec1",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "88bc4b5d0f3e4ab10776527e24f94638deeaea33be51f187147dec4f6a8c6f35"
+    },
+    {
+      "file": "colorv2_minimap_sea_1_1.ytd",
+      "bytes": 2496634,
+      "sha256": "378271405b977e5e70de1213f0b284e0c3c716fea197ff54cdcd38bdfceee2b9",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "80acafd1ef0ef762f5f747240ad8287ed6ded9720e683cc9032f353736d7b219"
+    },
+    {
+      "file": "colorv2_minimap_sea_2_0.ytd",
+      "bytes": 1647496,
+      "sha256": "e713ee423b5c5e06feda97a6d01eea343eb99f2e6a27e41fec121e1614c37277",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "50c977bed6df648324443379faf91121abae49a0cbc220eba2e494bae81c91dd"
+    },
+    {
+      "file": "colorv2_minimap_sea_2_1.ytd",
+      "bytes": 1786625,
+      "sha256": "de15b1d67016a71cf3e5fdc2532386f2c092665446f759bbfc0a1f49ec02b4a6",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "1eb07877bbfd39da8182994172fbb96fa93c84994be93c73bc1f4042b227ff98"
+    },
+    {
+      "file": "default_minimap_lod_128.ytd",
+      "bytes": 5071,
+      "sha256": "689316f1f90fcd012878cb364b66a9df18efd6e1339274ebf1db9391ca112fd6",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "f3bbe8f13f700a0ab5952e2be9e5e55fa96d220c08fba499a5470cf421027945"
+    },
+    {
+      "file": "default_minimap_sea_0_0.ytd",
+      "bytes": 190009,
+      "sha256": "1ab78cecaeaad5089b107988db15d327537575297958188061d4bbf4030d5c76",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "02e32004fec9a5c76205a437fcf6de60d91f28ba91d5d82f09eb186aa0f05f9b"
+    },
+    {
+      "file": "default_minimap_sea_0_1.ytd",
+      "bytes": 203984,
+      "sha256": "68de28721a313e6deb3d103aa4a5afd7469cc66684731d8cd6c482a8a111e470",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "5c1843295b7c3a6e5c3191775158c730c6187e9a703cb75b723c6f54e378b8f7"
+    },
+    {
+      "file": "default_minimap_sea_1_0.ytd",
+      "bytes": 218125,
+      "sha256": "8df7f2fbfa816a3abfbc832726493b9640fb0965f4926aa6d1126e11a8ec2afd",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "56bade036f781a5b79c18971af703765290b3e32ee17a51807158dbb8673f9d7"
+    },
+    {
+      "file": "default_minimap_sea_1_1.ytd",
+      "bytes": 234482,
+      "sha256": "b246ef1ce0598d8b6a29eb9ceb35d2eefdb26d01316849e8aef9ac43240ace1d",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "327c49b7902d20a79fc11521fec3d355db485e89a012baee5e7c533956e5559f"
+    },
+    {
+      "file": "default_minimap_sea_2_0.ytd",
+      "bytes": 175401,
+      "sha256": "0a65f709bb0fb9c703c319ce0ec196495c801d9a474405819a4abb99444ad373",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "b0b6c4bdb6e7e21a8d143cc4239851a51ee9ba3f275f19e6493a11fd7c689a9f"
+    },
+    {
+      "file": "default_minimap_sea_2_1.ytd",
+      "bytes": 184463,
+      "sha256": "320cfc40bd9ab674c3f44e32a65f3792f9fb4098ecd4364a7919487e8022fa11",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "621a9fa693172a319988e2e21f9f21d3e36b86fb008f1e86c258d403226dc1c0"
+    },
+    {
+      "file": "postal_minimap_lod_128.ytd",
+      "bytes": 8788,
+      "sha256": "53fb0f3796128eed67c5db23824bc9d28b3deeb8f2888ba22d031538a3bbfdc2",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "71bb93ffcfa3194e324ccad91361eb23d19b2b89b15b1caf5e3f0563da65fd12"
+    },
+    {
+      "file": "postal_minimap_sea_0_0.ytd",
+      "bytes": 1949390,
+      "sha256": "c30d3b80396cdcad978157ff16b41fbf3a19bbebcf10cbe606737353f2a2a0bf",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "0782f47929b5e823e1a6a715e7ee4a09caa18b5f03b2ddea62888a8d17b7014b"
+    },
+    {
+      "file": "postal_minimap_sea_0_1.ytd",
+      "bytes": 2189032,
+      "sha256": "1eb1462e4e87f30d36a64fb8d6bb15babcf729a986f3e831cd749af4d668906a",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "6d49a769387c462fb199ec85c9fe90b41f38c366ed7ec76988996860389c9dc4"
+    },
+    {
+      "file": "postal_minimap_sea_1_0.ytd",
+      "bytes": 2504778,
+      "sha256": "e742ae9d47f7e55756ceaba353bc670775b1682521ffe931e8c4e3d4aa253684",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "70f9baca828864ae55396ac21fd225fc3648cfbb86a7a4fa03d00921bc1a8266"
+    },
+    {
+      "file": "postal_minimap_sea_1_1.ytd",
+      "bytes": 2468412,
+      "sha256": "dce24120b386771173b6918b044554c6ff4ea5d848c8ba0d7a4771e8ffb482b3",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "869cd545d00d26f99a22117b7d62436cb6bd200e4b8ab1323408a88a8b5db2f3"
+    },
+    {
+      "file": "postal_minimap_sea_2_0.ytd",
+      "bytes": 1660536,
+      "sha256": "2ba1a95c8e6c1e4a9bf9585465fb78902c51a40c5fae407fac0b83cf292041d1",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "cdfe1e9de9edb8794c4a855195bc760ab5d90ff28c9ab1819d0e80d9b7b99bbc"
+    },
+    {
+      "file": "postal_minimap_sea_2_1.ytd",
+      "bytes": 1774410,
+      "sha256": "0cdf52c05627fac174d2de6bf58a6a1d604188643aa0de4fdc66169a3b50be69",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "bc4e9589ce9ec600e3918e71782eb833838468bbab142a1533f1c54e3ff58ccd"
+    },
+    {
+      "file": "postalv2_minimap_lod_128.ytd",
+      "bytes": 13193,
+      "sha256": "64241108283eb4927cca5539ce7855200cba2adac255238cf79a63af01f97bb8",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "40d3a676c4eb4a983222f6058a57ea81b3967af02cde57731b147a214af9fe62"
+    },
+    {
+      "file": "postalv2_minimap_sea_0_0.ytd",
+      "bytes": 3095441,
+      "sha256": "8fea33d0558410acd2219387c719656c8b40137122888e57f527d881ef43b734",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "cc208b5aa09c124d1775a15502dd29653098282b8fbf0a7b875b146a3e3b343b"
+    },
+    {
+      "file": "postalv2_minimap_sea_0_1.ytd",
+      "bytes": 3956901,
+      "sha256": "236bbe4748e64fdea41a31895fe93929fe20d63733fa930e7e94e7bdc99cb1b1",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "b63276cde7d362c81459060c6142808eee34e78a2cc4b284d9ddeaa9d3f0bc74"
+    },
+    {
+      "file": "postalv2_minimap_sea_1_0.ytd",
+      "bytes": 4633778,
+      "sha256": "42700af600f9b9f678cb8382187ce832720e62bb92462ee9779dfea241ad0f7c",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "0b342b6566015f6d3ea8f3180d7eef0ce22dbd461581b51c2e60eb4560664d43"
+    },
+    {
+      "file": "postalv2_minimap_sea_1_1.ytd",
+      "bytes": 4607919,
+      "sha256": "7ee10493411c39e03d03721b54a957ab7ed161016458a50a14b7ca6cb1ccea61",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "fc4a563f71f13410da5b1e4d7c9799203e0ccb994ed0d5945e1f94b25e3bdddb"
+    },
+    {
+      "file": "postalv2_minimap_sea_2_0.ytd",
+      "bytes": 2485875,
+      "sha256": "3009160441dd5d8f01468a3670e51fcd31423d020ddb6ecde2ff97429d722f98",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "5a2d636dbffe85a52f8d0a5b6e4cc39f3dcee11af1d710285e4c13976d38200f"
+    },
+    {
+      "file": "postalv2_minimap_sea_2_1.ytd",
+      "bytes": 2789295,
+      "sha256": "af293a98344f2181a151508ffd45141048cc876fa8a0304f71dc57ce1a1a333d",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "0b7b1b6f2bdaeececcc4370686953d0c0e3fd02f83c233332efbf4dd22d40640"
+    },
+    {
+      "file": "postalvn_minimap_lod_128.ytd",
+      "bytes": 8779,
+      "sha256": "eefe77f4a73ed1a8aa4138b23e081ec4e735163e1d04c5126df9464d66b424d7",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "6de1f5162abb90d71f216da7ce528bc3a40fa5319ef88a3448f24b87d1ebff14"
+    },
+    {
+      "file": "postalvn_minimap_sea_0_0.ytd",
+      "bytes": 1153780,
+      "sha256": "3fd15928dea1f741f57d565841523529e30bdced78c9c044d708eb9763263669",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "a93988545f14f3ecbf8527c8fc35fc0892b516a43611531b2fcddb690652f496"
+    },
+    {
+      "file": "postalvn_minimap_sea_0_1.ytd",
+      "bytes": 1342354,
+      "sha256": "b666e190870b39f7261f168f544d7cf5231a5b573c1e7b76b80f125a05922a02",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "efb855e1b9fb7534fc8ffc7b84a7809793b2afc4e619bad1b13897dfdf411b56"
+    },
+    {
+      "file": "postalvn_minimap_sea_1_0.ytd",
+      "bytes": 1898149,
+      "sha256": "39aa761224bb04ab4a4b8dfe371e2cff076a5798803d2b28c6706c3db51030ab",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "3a6965effddbb3e13dd3a355fe72e588d92b2c8a4a940e5f259ab05387a2e700"
+    },
+    {
+      "file": "postalvn_minimap_sea_1_1.ytd",
+      "bytes": 1752145,
+      "sha256": "f107d3a5d3cb7b41d637a2ac17927ec47a4052f477edaa45414f33143a01fb61",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "e04ca01a945e16b6812553fad9684b57a4ba6aeeab98532d26ad3e0bb209b722"
+    },
+    {
+      "file": "postalvn_minimap_sea_2_0.ytd",
+      "bytes": 1099798,
+      "sha256": "a220f0224225abce21591d0d07746bf4c4c3e70ff0c85213a488802476bf75ef",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "99558b622b35c188ec402a35babbf86b2c9295e20e7b2f03ba7ce0097abafa07"
+    },
+    {
+      "file": "postalvn_minimap_sea_2_1.ytd",
+      "bytes": 1124427,
+      "sha256": "1ea3a0f26c2c34a08c54a332d843b271e64020be5da0f9203538fe83afde8171",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "a4a1723bee6e38252b7ac094a7fc045733d86ad64d54d46dbbf58c5fbff32699"
+    },
+    {
+      "file": "satellite_minimap_lod_128.ytd",
+      "bytes": 14708,
+      "sha256": "9572ce15f9ce669d0b448c42cab9d63244ee5f97def9f31d5a71d2c140df7b22",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "3766eacee2001f7b1c913e8fb790bac64a52d622fe343db75bfb48888b139a04"
+    },
+    {
+      "file": "satellite_minimap_sea_0_0.ytd",
+      "bytes": 5828434,
+      "sha256": "f492361f96a51bb721b684df9626e2513f822c86f2800bcce7ab3fbd86450e9e",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "2ad68e04ed76f5527374f83b4635adfacbf453fa850aa4200f685a260bb3b983"
+    },
+    {
+      "file": "satellite_minimap_sea_0_1.ytd",
+      "bytes": 7803097,
+      "sha256": "93b842e347a6b77cb9ecc6e9cb390fb76efeab06359884d8f19001e5bf002436",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "e5f784823765a785e5053abc2fbdac651d507b44ed64465c79ecc9a106c8cd32"
+    },
+    {
+      "file": "satellite_minimap_sea_1_0.ytd",
+      "bytes": 10545814,
+      "sha256": "ff636809fe9542a9e62531e48d890c557088aa4ec7237c1d7ffe26bf3276a94e",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "7416d8f24bde4c25b7775d3a1a98630fdcb972b1e124239af0401db0e316d9a5"
+    },
+    {
+      "file": "satellite_minimap_sea_1_1.ytd",
+      "bytes": 9828019,
+      "sha256": "ef0c2a3f0cc1dd393efff8593d9d1623082498893db0474cf9af90295f721745",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "32736b685d33baa4251ade7c9ff0167c1181711fef12e5710907b1408951cf77"
+    },
+    {
+      "file": "satellite_minimap_sea_2_0.ytd",
+      "bytes": 4795847,
+      "sha256": "445c09754fc170617af86d55d110cd0af3b3ee31f663e9565408063e7f1234c8",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "0faf82f826b8abba300c3d854264b5bed091b63f6159c69d156437f9cdfce645"
+    },
+    {
+      "file": "satellite_minimap_sea_2_1.ytd",
+      "bytes": 5193156,
+      "sha256": "2b7a0c7ee674b6011f84bf90497b5626f45bee0808dcc9016d6f64706c71a357",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "a2e249918f681da4b15c6ca4db48709f3222b8d8a4bfe3c7de5fa8224306006d"
+    },
+    {
+      "file": "vietnam_minimap_lod_128.ytd",
+      "bytes": 14708,
+      "sha256": "9572ce15f9ce669d0b448c42cab9d63244ee5f97def9f31d5a71d2c140df7b22",
+      "texture": "minimap_lod_128",
+      "graphics_sha256": "3766eacee2001f7b1c913e8fb790bac64a52d622fe343db75bfb48888b139a04"
+    },
+    {
+      "file": "vietnam_minimap_sea_0_0.ytd",
+      "bytes": 1119705,
+      "sha256": "133972456a3f4887eb168f45c729fd28a4c9db11aba9181eac669ba991386a80",
+      "texture": "minimap_sea_0_0",
+      "graphics_sha256": "6cb52059b23d35edb88466d60c69b7603784022ce76957f36ac5342df11c7e56"
+    },
+    {
+      "file": "vietnam_minimap_sea_0_1.ytd",
+      "bytes": 1305163,
+      "sha256": "f2ce381a5dab1ac2ad2a45c716d022a143adcfbafa0a2d7af6290a6a86e2030d",
+      "texture": "minimap_sea_0_1",
+      "graphics_sha256": "91baae1b1d75457f948f96e1ebe3f990cd70310efac88a77aec1467da5c56fc6"
+    },
+    {
+      "file": "vietnam_minimap_sea_1_0.ytd",
+      "bytes": 1980959,
+      "sha256": "09df15634a28be20314891a4fe36b4f1a3705563f49eecf29196daaf99a67734",
+      "texture": "minimap_sea_1_0",
+      "graphics_sha256": "07cca4f4a2a4bd16c397b711bdfb00fbea432f6dfc5d392128febfbb35971e49"
+    },
+    {
+      "file": "vietnam_minimap_sea_1_1.ytd",
+      "bytes": 1812490,
+      "sha256": "0a68e616c9f4b783523336e3f21df32ea50ab459135cdf1a91863f8adceb2172",
+      "texture": "minimap_sea_1_1",
+      "graphics_sha256": "b9e92177dc613ab21fa7777a515c0312eb8a48546480f970f2aade851d2714b9"
+    },
+    {
+      "file": "vietnam_minimap_sea_2_0.ytd",
+      "bytes": 1143679,
+      "sha256": "ca03353036bb646db70189b6330118298332392c995ba801e759af35bf45ca9b",
+      "texture": "minimap_sea_2_0",
+      "graphics_sha256": "7a1ca4cd4e013c7bdcb5e91257a2eaaa345018108802080029b65d80b5d9572a"
+    },
+    {
+      "file": "vietnam_minimap_sea_2_1.ytd",
+      "bytes": 1108922,
+      "sha256": "a3b2da755708687925d697876afc7c3157eb8330b48a24f59e33a3f764310325",
+      "texture": "minimap_sea_2_1",
+      "graphics_sha256": "4364faeb3aa5a42c212f774ed47996100c53bb59d27e4149b9537d7ae7207dd4"
+    }
+  ]
+}
